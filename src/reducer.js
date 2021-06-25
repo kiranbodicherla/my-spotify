@@ -18,7 +18,7 @@ export const initialState = {
           return{
             ...state,
             token:action.token
-          }
+          };
         default:
           return state;
     }
