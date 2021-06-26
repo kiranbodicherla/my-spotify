@@ -35,15 +35,21 @@ function App() {
         //console.log(user);
 
         dispatch({
-          type:'SET_USER',
+          type:"SET_USER",
           user:user,
         });
       });
 
+     spotify.getUserPlaylists().then((playlists)=>{
+     dispatch({
+       type:"SET_PLAYLISTS",
+       playlists:playlists,
+     });
+    });
 
-    }
-
-   
+  
+  
+  }
   }, []);
 
 
