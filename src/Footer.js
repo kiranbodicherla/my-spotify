@@ -15,8 +15,8 @@ function Footer() {
                 <img className="footer__albumLogo"
                 src="https://oldtelugusongs.com/wp-content/uploads/2020/04/VakeelSaab.jpg" alt="" />
                 <div className="footer__songInfo">
-                    <h4>Yeah</h4>
-                    <p>User</p>
+                    <h4>Vakeel Saab</h4>
+                    <p>Title Song</p>
                 </div>
             </div>
 
