@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http;//kiranbodicherla/.github.io/my-spotify/static/css/main.3566ffe0.chunk.css",
+    "main.js": "/http;//kiranbodicherla/.github.io/my-spotify/static/js/main.d90db7ab.chunk.js",
+    "main.js.map": "/http;//kiranbodicherla/.github.io/my-spotify/static/js/main.d90db7ab.chunk.js.map",
+    "runtime-main.js": "/http;//kiranbodicherla/.github.io/my-spotify/static/js/runtime-main.19dcd71b.js",
+    "runtime-main.js.map": "/http;//kiranbodicherla/.github.io/my-spotify/static/js/runtime-main.19dcd71b.js.map",
+    "static/js/2.4ec1ba78.chunk.js": "/http;//kiranbodicherla/.github.io/my-spotify/static/js/2.4ec1ba78.chunk.js",
+    "static/js/2.4ec1ba78.chunk.js.map": "/http;//kiranbodicherla/.github.io/my-spotify/static/js/2.4ec1ba78.chunk.js.map",
+    "static/js/3.0c63c839.chunk.js": "/http;//kiranbodicherla/.github.io/my-spotify/static/js/3.0c63c839.chunk.js",
+    "static/js/3.0c63c839.chunk.js.map": "/http;//kiranbodicherla/.github.io/my-spotify/static/js/3.0c63c839.chunk.js.map",
+    "index.html": "/http;//kiranbodicherla/.github.io/my-spotify/index.html",
+    "static/css/main.3566ffe0.chunk.css.map": "/http;//kiranbodicherla/.github.io/my-spotify/static/css/main.3566ffe0.chunk.css.map",
+    "static/js/2.4ec1ba78.chunk.js.LICENSE.txt": "/http;//kiranbodicherla/.github.io/my-spotify/static/js/2.4ec1ba78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19dcd71b.js",
+    "static/js/2.4ec1ba78.chunk.js",
+    "static/css/main.3566ffe0.chunk.css",
+    "static/js/main.d90db7ab.chunk.js"
+  ]
+}
